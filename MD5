@@ -1,10 +1,11 @@
-1d8eae67ca57d622aa25a49132cb6eaa *DESCRIPTION
+fbac6ded42d8bc67da347701965d3825 *DESCRIPTION
 55f726757b7778d60e3b522991e0e659 *LICENSE
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
 c686d43beb723713abeeb97c8cdd6eb6 *R/actuary_salaries.R
 53e84661a4cebb21851ad02ec49f5cac *R/apartment_apps.R
 f07b08eb36d9056acafd7323f82f7bc7 *R/auto_claim.R
 66d3b0d4ed0ed4dfaa615e3caa648060 *R/bank_loans.R
+dd09d64395987ddad921574ed4aec729 *R/bike_sharing_demand.R
 65c563825df6865048e82fa85432c6d7 *R/boston.R
 6ad2e00715b16387596422d82e404a53 *R/customer_phone_calls.R
 b99476a09c82a284772969447160e2d3 *R/customer_value.R
@@ -20,6 +21,7 @@ caa00ea9ecf4b8e3ee95609b4e0ed70b *R/readmission.R
 5106ff9c8a470d30ab6cfd5f941b56cb *data/apartment_apps.RData
 4e06fd8982a8e78fd9daa3aa1c80e648 *data/auto_claim.RData
 5496bbe13cff649a3f907fb764101fe1 *data/bank_loans.RData
+eaddcf2e45f27449b9dc71424246deac *data/bike_sharing_demand.RData
 25bb34f610efb0baa069ca41341647e8 *data/boston.RData
 b150d9592add90391e780d6ff3c72180 *data/customer_phone_calls.RData
 f2da22ff1b01632faf840b1dc1aa160a *data/customer_value.RData
@@ -34,6 +36,7 @@ da3c4ed0c7427c78a37b83b0f874b188 *man/actuary_salaries.Rd
 890ade382c92e936008fd044f6e3af09 *man/apartment_apps.Rd
 33c8e3db18d71f757a6f09704df1f19a *man/auto_claim.Rd
 d5417b49f99cfd03c35836cf1654e818 *man/bank_loans.Rd
+15106e50a38a051f33b7100d47406219 *man/bike_sharing_demand.Rd
 c6c5f6a5a30a568eb030a3905d1973e9 *man/boston.Rd
 f82c8cbdbb7fe1c6a28818c7f02273b8 *man/customer_phone_calls.Rd
 48b6c0617f7664aafee3736332fb71d4 *man/customer_value.Rd
