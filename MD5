@@ -1,4 +1,4 @@
-fbac6ded42d8bc67da347701965d3825 *DESCRIPTION
+233897f9b85db8fa89646f55af7983b2 *DESCRIPTION
 55f726757b7778d60e3b522991e0e659 *LICENSE
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
 c686d43beb723713abeeb97c8cdd6eb6 *R/actuary_salaries.R
@@ -14,9 +14,9 @@ b99476a09c82a284772969447160e2d3 *R/customer_value.R
 1ad7663612051904841a4d2b9b452bf2 *R/june_pa.R
 c8a059a32e465d9a53b19a694aa09928 *R/patient_length_of_stay.R
 c8b140dbdec309a5aa8fd11e3e56930b *R/patient_num_labs.R
+dd65fa139d2d09fcd8a3846ebc360d8a *R/pedestrian_activity.R
 caa00ea9ecf4b8e3ee95609b4e0ed70b *R/readmission.R
 4fd143f0c660052f0894849b640ab3ab *R/student_success.R
-739e14741ff19af4763bd59d82921774 *README.md
 6737fd24f17fe7c94e0e252ec8b61b20 *data/actuary_salaries.RData
 5106ff9c8a470d30ab6cfd5f941b56cb *data/apartment_apps.RData
 4e06fd8982a8e78fd9daa3aa1c80e648 *data/auto_claim.RData
@@ -30,6 +30,7 @@ f2da22ff1b01632faf840b1dc1aa160a *data/customer_value.RData
 141433a9c1d080de770eb508f329a581 *data/june_pa.RData
 5489efaed5741a91472c3da6a026f86c *data/patient_length_of_stay.RData
 643354fe80eb9bbc54d40b288aa6148f *data/patient_num_labs.RData
+46255cb30c43fe8146328478a60f493d *data/pedestrian_activity.RData
 f315d435baa1d382d7eadab49458a72d *data/readmission.RData
 1575fc90d1deaff6cc95c3e2be653960 *data/student_success.RData
 da3c4ed0c7427c78a37b83b0f874b188 *man/actuary_salaries.Rd
@@ -45,5 +46,6 @@ b985fc88c3a849030d980d4cbca6fb11 *man/exam_pa_titanic.Rd
 b8ddfa451f538e146e38187f615ee1f0 *man/june_pa.Rd
 a5292f98ee911176d60a9f27f6e52ee5 *man/patient_length_of_stay.Rd
 f3a0972dc133e8614ea12c39ddbda146 *man/patient_num_labs.Rd
+6179daf5c0696177c81e08f332c4d72e *man/pedestrian_activity.Rd
 e2dbb2d4e217e168ba474fc4a0b73371 *man/readmission.Rd
 fcea3fc0961d68b31446eaeb59fbc640 *man/student_success.Rd
